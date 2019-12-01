@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-I$(INCDIR) -Wall -pedantic -Werror -Wshadow -Wstrict-aliasing -Wstrict-overflow
+CFLAGS=-Wall -pedantic -Werror -Wshadow -Wstrict-aliasing -Wstrict-overflow
 
 ODIR=obj
 SRCDIR=src
